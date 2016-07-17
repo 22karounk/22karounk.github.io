@@ -1,0 +1,20 @@
+img {
+    width: 36%;
+}
+body {
+    background: url(https://pbs.twimg.com/profile_images/695859204574224384/C4LcDIwR_400x400.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+h1{
+    color:green;
+}
+body{
+    color:red;
+}
+p{
+    font-size:30px;
+}
+h1{
+    font-size:40px;
+}
